@@ -1,0 +1,6 @@
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\bin\Debug\creditcards.exe.config
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\obj\Debug\creditcards.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\bin\Debug\creditcards.exe
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\bin\Debug\creditcards.pdb
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\obj\Debug\creditcards.exe
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcards\obj\Debug\creditcards.pdb

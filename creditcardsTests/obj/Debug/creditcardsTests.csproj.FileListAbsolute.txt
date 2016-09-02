@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\creditcardsTests.dll
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\creditcardsTests.pdb
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\creditcards.exe
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\creditcards.pdb
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.dll
+C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.pdb
