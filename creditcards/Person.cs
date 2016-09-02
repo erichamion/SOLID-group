@@ -12,13 +12,7 @@ namespace creditcards
 
         public double GetInterest()
         {
-            double counter = 0;
-            foreach (IinterestEarner wallet in Wallets)
-            {
-                counter +=wallet.GetInterest();
-
-            }
-            return counter;
+            return InterestAdder.SumInterest(Wallets);
         }
         public Person(List<IinterestEarner> Wallets) 
         {

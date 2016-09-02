@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Card.cs" />
     <Compile Include="IinterestEarner.cs" />
+    <Compile Include="InterestAdder.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

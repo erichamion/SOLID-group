@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace creditcards
 {
-    class Wallet : IinterestEarner
+    public class Wallet : IinterestEarner
     {
+        public List<IinterestEarner> Cards { get; }
+
         public double GetInterest()
         {
+            return InterestAdder.SumInterest(Cards);
+        }
 
+        public Wallet(List<IinterestEarner> cards)
+        {
+            this.Cards = cards;
         }
     }
 }

@@ -6,3 +6,11 @@ C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\bin\Debug\
 C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.dll
 C:\Users\Owner\Documents\2016-net-week-3\creditcards\creditcardsTests\obj\Debug\creditcardsTests.pdb
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\creditcardsTests.dll
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\creditcardsTests.pdb
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\creditcards.exe
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\creditcards.pdb
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.csprojResolveAssemblyReference.cache
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.dll
+C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.pdb
