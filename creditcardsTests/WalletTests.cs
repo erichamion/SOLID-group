@@ -1,10 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using creditcards;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace creditcards.Tests
 {
@@ -14,13 +10,26 @@ namespace creditcards.Tests
         [TestMethod()]
         public void GetInterestTest()
         {
-            Assert.Fail();
+            //Arrange
+            List<IInterestEarner> mockCards = new List<IInterestEarner> { new MockInterestEarner(), new MockInterestEarner(), };
+            Wallet wallet = new Wallet(mockCards);
+            double result;
+            //Act
+            result = wallet.GetInterest();
+            //Assert
+            Assert.AreEqual(84, result);
         }
 
         [TestMethod()]
         public void WalletTest()
         {
-            Assert.Fail();
+            //Arrange
+            List<IInterestEarner> mockCards = new List<IInterestEarner> { new MockInterestEarner(), new MockInterestEarner(), };
+            //Act
+            Wallet wallet = new Wallet(mockCards);
+            //Assert
+
+            Assert.IsTrue(wallet.Cards.SequenceEqual(mockCards));
         }
     }
 }

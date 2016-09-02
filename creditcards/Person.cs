@@ -1,20 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace creditcards
 {
-    public class Person: IinterestEarner
+    public class Person<T> : IInterestEarner where T : IInterestEarner
     {
-        public List<IinterestEarner> Wallets { get; }
+        public List<T> Wallets { get; }
 
         public double GetInterest()
         {
             return InterestAdder.SumInterest(Wallets);
         }
-        public Person(List<IinterestEarner> Wallets) 
+        public Person(List<T> Wallets) 
         {
             this.Wallets = Wallets;
         }

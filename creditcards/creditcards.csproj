@@ -44,11 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Card.cs" />
-    <Compile Include="IinterestEarner.cs" />
+    <Compile Include="DiscoverCardType.cs" />
+    <Compile Include="ICardType.cs" />
+    <Compile Include="IInterestEarner.cs" />
     <Compile Include="InterestAdder.cs" />
+    <Compile Include="MastercardCardType.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VisaCardType.cs" />
     <Compile Include="Wallet.cs" />
   </ItemGroup>
   <ItemGroup>

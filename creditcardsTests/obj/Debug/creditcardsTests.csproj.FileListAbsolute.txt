@@ -14,3 +14,10 @@ C:\Users\erich\code\solid\CreditCards\creditcardsTests\bin\Debug\creditcards.pdb
 C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.csprojResolveAssemblyReference.cache
 C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.dll
 C:\Users\erich\code\solid\CreditCards\creditcardsTests\obj\Debug\creditcardsTests.pdb
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\bin\Debug\creditcardsTests.dll
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\bin\Debug\creditcardsTests.pdb
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\bin\Debug\creditcards.exe
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\bin\Debug\creditcards.pdb
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\obj\Debug\creditcardsTests.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\obj\Debug\creditcardsTests.dll
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcardsTests\obj\Debug\creditcardsTests.pdb

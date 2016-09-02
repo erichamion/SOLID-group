@@ -10,3 +10,9 @@ C:\Users\erich\code\solid\CreditCards\creditcards\obj\Debug\creditcards.pdb
 C:\Users\erich\code\solid\CreditCards\creditcards\bin\Debug\creditcards.exe
 C:\Users\erich\code\solid\CreditCards\creditcards\bin\Debug\creditcards.pdb
 C:\Users\erich\code\solid\CreditCards\creditcards\obj\Debug\creditcards.csprojResolveAssemblyReference.cache
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\bin\Debug\creditcards.exe.config
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\obj\Debug\creditcards.exe
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\obj\Debug\creditcards.pdb
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\bin\Debug\creditcards.exe
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\bin\Debug\creditcards.pdb
+C:\Users\Tommy Janicik\Documents\Visual Studio 2015\Projects\CreditCard\creditcards\obj\Debug\creditcards.csprojResolveAssemblyReference.cache

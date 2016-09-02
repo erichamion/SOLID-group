@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using creditcards;
 namespace creditcards.Tests
 {
-    class MockInterestEarner : IinterestEarner
+    class MockInterestEarner : IInterestEarner
     {
         public double GetInterest()
         {

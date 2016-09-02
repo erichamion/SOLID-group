@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace creditcards
 {
     class InterestAdder
     {
-        public static double SumInterest(List<IinterestEarner> interestEarners)
+        public static double SumInterest<T>(List<T> interestEarners) where T : IInterestEarner
         {
             double counter = 0;
-            foreach (IinterestEarner interestEarner in interestEarners)
+            foreach (IInterestEarner interestEarner in interestEarners)
             {
                 counter += interestEarner.GetInterest();
 
